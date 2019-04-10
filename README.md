@@ -1,2 +1,2 @@
 # web-scrape
-Meta data scraping with node.js
+Meta data scraping in node.js and express using cheerio
