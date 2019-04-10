@@ -1,0 +1,18 @@
+{
+  "name": "metadatascraping",
+  "version": "1.0.0",
+  "description": "An application for meta data scraping",
+  "main": "index.js",
+  "scripts": {
+    "run": "nodemon index.js"
+  },
+  "author": "Meera",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
